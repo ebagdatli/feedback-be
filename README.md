@@ -222,13 +222,4 @@ Temel konfigürasyon `src/main/resources/application.yml` dosyasında yer alır.
 | Gemini API Key | `GEMINI_API_KEY` | - |
 | Gemini Model | `GEMINI_MODEL` | `gemini-2.5-flash` |
 
----
 
-## CORS Ayarları
-
-Uygulama aşağıdaki originlere izin verir:
-
-- `http://localhost:3000`
-- `http://localhost:5173`
-
-Path pattern: `/api/**`
