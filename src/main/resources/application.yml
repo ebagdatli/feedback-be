@@ -25,7 +25,7 @@ server:
   port: 8080
 
 gemini:
-  api-key: ${GEMINI_API_KEY:AIzaSyDsN62ZU43yLYpcK1UXiySnUgu53oK2VOQ}
+  api-key: ${GEMINI_API_KEY:-}
   model: gemini-2.5-flash
   api-url: https://generativelanguage.googleapis.com/v1beta
   max-retries: 3
