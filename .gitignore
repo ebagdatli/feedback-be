@@ -42,4 +42,4 @@ mvnw
 mvnw.cmd
 .mvn/
 
-./cursor
+.cursor
