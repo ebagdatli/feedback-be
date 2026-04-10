@@ -41,3 +41,5 @@ Thumbs.db
 mvnw
 mvnw.cmd
 .mvn/
+
+./cursor
